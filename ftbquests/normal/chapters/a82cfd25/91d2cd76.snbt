@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"730047d5"
+	],
+	tasks: [{
+		uid: "afcb1c12",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

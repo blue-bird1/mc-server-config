@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -6.0d,
+	dependencies: [
+		"03632466"
+	],
+	tasks: [{
+		uid: "83da09a9",
+		type: "item",
+		items: [{
+			item: "hbm:machine_chemplant"
+		}]
+	}]
+}

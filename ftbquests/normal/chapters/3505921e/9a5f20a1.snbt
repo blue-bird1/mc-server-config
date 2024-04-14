@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -7.5d,
+	dependencies: [
+		"03632466"
+	],
+	tasks: [{
+		uid: "3e5cdbe5",
+		type: "item",
+		items: [{
+			item: "hbm:machine_arc_furnace_off"
+		}]
+	}]
+}

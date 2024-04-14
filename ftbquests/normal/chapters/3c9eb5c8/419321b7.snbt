@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 4.5d,
+	dependencies: [
+		"3d055d83"
+	],
+	tasks: [{
+		uid: "0e938663",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_steel"
+		}]
+	}]
+}

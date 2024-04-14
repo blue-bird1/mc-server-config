@@ -1,0 +1,13 @@
+{
+	title: "核处理",
+	icon: "hbm:rod_thorium_fuel_depleted",
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"通过核反应后进一步处理获取更高级的材料吧"
+	],
+	tasks: [{
+		uid: "a9e1092d",
+		type: "checkmark"
+	}]
+}

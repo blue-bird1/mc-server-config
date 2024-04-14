@@ -1,0 +1,28 @@
+{
+	title: "高级炼金物品制造技术",
+	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"为此需要制作一些抵抗环境的道具"
+	],
+	dependencies: [
+		"72a7673d"
+	],
+	tasks: [{
+		uid: "5fcc6ef8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:alchemy_book"
+		}]
+	}],
+	rewards: [{
+		uid: "efac3ea9",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "alchemy"
+	}]
+}

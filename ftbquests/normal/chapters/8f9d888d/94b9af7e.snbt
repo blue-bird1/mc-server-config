@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"在挖煤矿之前，制作并粗糙的面具丢进水里， 你不会想得煤尘肺的"
+	],
+	tasks: [{
+		uid: "b5c397da",
+		type: "item",
+		items: [{
+			item: "hbm:mask_damp"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

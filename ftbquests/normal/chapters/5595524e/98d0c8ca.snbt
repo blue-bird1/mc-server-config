@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: 1.5d,
+	dependencies: [
+		"9473af7d"
+	],
+	tasks: [{
+		uid: "78390ce8",
+		type: "fluid",
+		fluid: "aromatics"
+	},
+	{
+		uid: "58dce87f",
+		type: "fluid",
+		fluid: "unsaturateds"
+	}]
+}

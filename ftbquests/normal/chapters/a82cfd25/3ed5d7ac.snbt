@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	dependencies: [
+		"3d055d83"
+	],
+	tasks: [{
+		uid: "e4aa914c",
+		type: "item",
+		items: [{
+			item: "hbm:steel_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

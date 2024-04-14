@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"730047d5"
+	],
+	tasks: [{
+		uid: "2e089c02",
+		type: "item",
+		items: [{
+			item: "hbm:machine_shredder"
+		}]
+	}]
+}

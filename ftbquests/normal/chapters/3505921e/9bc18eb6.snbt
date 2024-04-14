@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: -8.0d,
+	dependencies: [
+		"03632466",
+		"9219bf38"
+	],
+	tasks: [{
+		uid: "bad40b6a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}]
+}

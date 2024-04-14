@@ -1,0 +1,18 @@
+{
+	x: 9.5d,
+	y: -1.5d,
+	text: [
+		"付出了高额的代加工费"
+	],
+	dependencies: [
+		"b8347aa9"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d1a3871e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_assembler"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 3.0d,
+	min_required_dependencies: 1,
+	dependencies: [
+		"8ec832a1",
+		"ce33f31a"
+	],
+	tasks: [{
+		uid: "c17df0f8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_difurnace_off"
+		}]
+	}]
+}

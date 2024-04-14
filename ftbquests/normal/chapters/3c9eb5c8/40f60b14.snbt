@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"火力发电机外的另一个选择"
+	],
+	dependencies: [
+		"3d055d83"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5fd75d3b",
+		type: "item",
+		items: [{
+			item: "hbm:machine_turbine"
+		}]
+	},
+	{
+		uid: "7e336ba8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_boiler_off"
+		}]
+	}]
+}

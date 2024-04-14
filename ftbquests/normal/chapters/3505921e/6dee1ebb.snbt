@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"730047d5"
+	],
+	tasks: [{
+		uid: "19575652",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_meteorite"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "神奇的红石材料",
+	x: 12.0d,
+	y: 0.5d,
+	text: [
+		"你发现了一些具有神奇能量的材料"
+	],
+	dependencies: [
+		"7d535d77"
+	],
+	optional: true,
+	tasks: [{
+		uid: "090931f8",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "acc7ae5d",
+		type: "item",
+		item: "minecraft:bread"
+	}]
+}

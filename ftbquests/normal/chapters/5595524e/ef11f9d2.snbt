@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: -5.0d,
+	dependencies: [
+		"66de3228"
+	],
+	tasks: [{
+		uid: "60cbac91",
+		type: "item",
+		items: [{
+			item: "hbm:machine_industrial_generator"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: -6.5d,
+	dependencies: [
+		"ba11e04a"
+	],
+	tasks: [{
+		uid: "c72af9ae",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_ferrouranium"
+		}]
+	}]
+}

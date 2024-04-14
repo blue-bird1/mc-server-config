@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	text: [
+		"材料学不过关，就加点魔法"
+	],
+	dependencies: [
+		"b3825564",
+		"40f60b14"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "e0369335",
+		type: "item",
+		items: [{
+			item: "hbm:plate_polymer"
+		}]
+	}]
+}

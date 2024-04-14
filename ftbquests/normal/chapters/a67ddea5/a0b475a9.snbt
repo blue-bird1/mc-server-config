@@ -1,0 +1,19 @@
+{
+	title: "找不到女巫？",
+	icon: "minecraft:glowstone_dust",
+	x: 1.5d,
+	y: -1.5d,
+	text: [
+		"买一点吧"
+	],
+	tasks: [{
+		uid: "116ad251",
+		type: "emc",
+		value: 81920L
+	}],
+	rewards: [{
+		uid: "3332f668",
+		type: "item",
+		item: "minecraft:glowstone_dust"
+	}]
+}

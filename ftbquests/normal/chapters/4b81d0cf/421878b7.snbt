@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	dependencies: [
+		"4dcd1e10"
+	],
+	tasks: [{
+		uid: "322a5191",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_tcalloy"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "找不到小黑？",
+	icon: "minecraft:ender_pearl",
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"用钞能力解决一切问题"
+	],
+	tasks: [{
+		uid: "ec0aef7c",
+		type: "emc",
+		value: 20480L
+	}],
+	rewards: [{
+		uid: "f0d58004",
+		type: "item",
+		item: "minecraft:ender_pearl"
+	}]
+}

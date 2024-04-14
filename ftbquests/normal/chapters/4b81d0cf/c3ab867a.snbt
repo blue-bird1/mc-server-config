@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 2.0d,
+	dependencies: [
+		"421878b7"
+	],
+	tasks: [{
+		uid: "0c9811be",
+		type: "item",
+		items: [{
+			item: "hbm:machine_chungus"
+		}]
+	}]
+}

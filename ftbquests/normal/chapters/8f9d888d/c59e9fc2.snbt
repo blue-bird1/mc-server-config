@@ -1,0 +1,22 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	text: [
+		"只需要几块木头和一些共价粉就能得到神奇的工作台"
+	],
+	dependencies: [
+		"0729f8cb"
+	],
+	tasks: [{
+		uid: "9ed6fd97",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "01ebecaa",
+		type: "item",
+		item: "minecraft:bread"
+	}]
+}

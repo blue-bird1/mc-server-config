@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"d6ba8e8d"
+	],
+	tasks: [{
+		uid: "bcebc2bb",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_ring_iron_band"
+		}]
+	}]
+}

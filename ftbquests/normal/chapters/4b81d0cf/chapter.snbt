@@ -1,0 +1,7 @@
+{
+	title: "高级核时代",
+	icon: "hbm:rbmk_fuel_empty",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

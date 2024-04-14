@@ -1,0 +1,16 @@
+{
+	x: 14.5d,
+	y: -5.0d,
+	min_required_dependencies: 1,
+	dependencies: [
+		"ed767fac",
+		"36c2a379"
+	],
+	tasks: [{
+		uid: "2044e208",
+		type: "item",
+		items: [{
+			item: "hbm:machine_large_turbine"
+		}]
+	}]
+}

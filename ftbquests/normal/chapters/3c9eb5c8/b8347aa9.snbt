@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	dependencies: [
+		"9e7c2b64",
+		"65f2e083",
+		"600d1406",
+		"bca177cc"
+	],
+	tasks: [{
+		uid: "78570fee",
+		type: "item",
+		items: [{
+			item: "hbm:circuit_raw"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	dependencies: [
+		"8ec832a1"
+	],
+	tasks: [{
+		uid: "f26c1a08",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_stone_flat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

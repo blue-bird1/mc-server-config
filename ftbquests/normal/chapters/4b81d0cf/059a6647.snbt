@@ -1,0 +1,21 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	dependencies: [
+		"891dab1a"
+	],
+	tasks: [{
+		uid: "b328eec7",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fel"
+		}]
+	},
+	{
+		uid: "67035df9",
+		type: "item",
+		items: [{
+			item: "hbm:machine_silex"
+		}]
+	}]
+}

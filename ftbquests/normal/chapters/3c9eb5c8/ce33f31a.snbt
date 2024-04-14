@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"21b72a83",
+		"bca177cc",
+		"d1837135"
+	],
+	tasks: [{
+		uid: "62732031",
+		type: "item",
+		items: [{
+			item: "hbm:plate_copper"
+		}]
+	}]
+}

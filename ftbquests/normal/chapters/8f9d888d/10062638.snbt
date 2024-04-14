@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"你，一位新手炼金师，在一次事故后，穿越到了这个新世界"
+	],
+	tasks: [{
+		uid: "899888c0",
+		type: "checkmark",
+		title: "一切的开始",
+		icon: "minecraft:dirt"
+	}]
+}

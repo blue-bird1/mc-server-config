@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"98f7587f"
+	],
+	tasks: [{
+		uid: "facc19a8",
+		type: "item",
+		items: [{
+			item: "hbm:powder_fire"
+		}]
+	}]
+}

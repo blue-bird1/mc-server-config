@@ -1,0 +1,19 @@
+{
+	title: "金属时代",
+	x: 7.5d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ecebcfa0"
+	],
+	tasks: [{
+		uid: "201efbba",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 64L
+	}]
+}

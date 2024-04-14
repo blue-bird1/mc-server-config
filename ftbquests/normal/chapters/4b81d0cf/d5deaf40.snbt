@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 6.5d,
+	dependencies: [
+		"eabe8b40"
+	],
+	tasks: [{
+		uid: "6723c769",
+		type: "item",
+		items: [{
+			item: "hbm:machine_schrabidium_transmutator"
+		}]
+	}]
+}

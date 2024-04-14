@@ -1,0 +1,16 @@
+{
+	title: "新的世界",
+	x: -5.0d,
+	y: 0.0d,
+	text: [
+		"在进一步工业化发展后，发现这个世界缺乏足够的稀有资源，但是你发现了一个亚维度,环境却不适合人生存"
+	],
+	dependencies: [
+		"b3d09523"
+	],
+	tasks: [{
+		uid: "41b5045c",
+		type: "checkmark",
+		icon: "minecraft:nether_star"
+	}]
+}

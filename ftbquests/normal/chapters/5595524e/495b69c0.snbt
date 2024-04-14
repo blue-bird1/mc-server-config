@@ -1,0 +1,14 @@
+{
+	x: 9.5d,
+	y: -1.0d,
+	dependencies: [
+		"9fad96cf"
+	],
+	tasks: [{
+		uid: "1ff4e780",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_starmetal"
+		}]
+	}]
+}

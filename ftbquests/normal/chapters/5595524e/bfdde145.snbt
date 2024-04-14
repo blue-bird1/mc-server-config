@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"炼金术的最高成就，任何坚硬的物品都无法阻挡"
+	],
+	dependencies: [
+		"d6ba8e8d"
+	],
+	tasks: [{
+		uid: "00620629",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3c177da8",
+		type: "gamestage",
+		icon: "minecraft:diamond",
+		auto: "no_toast",
+		stage: "diamond"
+	}]
+}

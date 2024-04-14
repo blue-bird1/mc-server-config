@@ -1,0 +1,21 @@
+{
+	title: "无尽水源",
+	x: 0.0d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"bfdde145",
+		"495b69c0"
+	],
+	tasks: [{
+		uid: "a2671e33",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_evertide_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

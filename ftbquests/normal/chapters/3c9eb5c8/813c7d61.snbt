@@ -1,0 +1,23 @@
+{
+	title: "造不如买",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"为了运输购买的物品需要构建新的运输用传送门，为此需要找到具有传送能力的物品"
+	],
+	dependencies: [
+		"16985475"
+	],
+	tasks: [{
+		uid: "14b37876",
+		type: "item",
+		items: [{
+			item: "modularmachinery:void_portal_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "1e024186",
+		type: "item",
+		item: "minecraft:baked_potato"
+	}]
+}

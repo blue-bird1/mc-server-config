@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: -2.5d,
+	dependencies: [
+		"da52df7f",
+		"2b7bff21",
+		"8f75447e"
+	],
+	tasks: [{
+		uid: "b5cc43cd",
+		type: "item",
+		items: [{
+			item: "hbm:machine_gascent"
+		}]
+	}]
+}

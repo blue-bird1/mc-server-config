@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 1.5d,
+	dependencies: [
+		"9219bf38"
+	],
+	tasks: [{
+		uid: "1f469257",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

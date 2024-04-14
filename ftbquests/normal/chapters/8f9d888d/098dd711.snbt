@@ -1,0 +1,27 @@
+{
+	title: "获取红石技术",
+	x: 13.5d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"235c2cbf"
+	],
+	optional: true,
+	tasks: [{
+		uid: "72e5d5b8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redstone_book"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f6c7b41d",
+		type: "gamestage",
+		icon: "minecraft:redstone",
+		auto: "no_toast",
+		stage: "redstone"
+	}]
+}

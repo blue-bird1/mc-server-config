@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	text: [
+		"小心辐射"
+	],
+	dependencies: [
+		"b190dddb"
+	],
+	tasks: [{
+		uid: "73473e12",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium"
+		}]
+	}]
+}

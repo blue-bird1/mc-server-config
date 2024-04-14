@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"最低级的铁砧"
+	],
+	dependencies: [
+		"16985475"
+	],
+	tasks: [{
+		uid: "3cfd0502",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_iron"
+		}]
+	}]
+}

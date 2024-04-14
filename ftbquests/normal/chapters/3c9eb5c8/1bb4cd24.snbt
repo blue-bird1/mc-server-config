@@ -1,0 +1,36 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	text: [
+		"买点外星人黑科技,由于能源不兼容，卖家附赠了一套转换线"
+	],
+	dependencies: [
+		"813c7d61",
+		"b3825564",
+		"40f60b14"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "cde6514b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	}],
+	rewards: [{
+		uid: "b963dc29",
+		type: "item",
+		item: "appliedenergistics2:energy_acceptor"
+	},
+	{
+		uid: "e910f6c0",
+		type: "item",
+		item: "hbm:machine_converter_he_rf"
+	},
+	{
+		uid: "b135647c",
+		type: "item",
+		item: "appliedenergistics2:part 1 16",
+		count: 64
+	}]
+}

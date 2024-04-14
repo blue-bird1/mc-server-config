@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -7.5d,
+	dependencies: [
+		"f8618d21"
+	],
+	tasks: [{
+		uid: "6242aa51",
+		type: "item",
+		items: [{
+			item: "hbm:machine_tower_large"
+		}]
+	}]
+}

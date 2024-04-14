@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"270b4b1f"
+	],
+	tasks: [{
+		uid: "e68070df",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_magnetized_tungsten"
+		}]
+	}]
+}

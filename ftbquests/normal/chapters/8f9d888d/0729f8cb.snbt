@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	text: [
+		"你找到了身旁掉落的炼金物品 （没错，这是一个懒人包，只要你有emc）"
+	],
+	dependencies: [
+		"10062638"
+	],
+	tasks: [{
+		uid: "2b228fff",
+		type: "checkmark",
+		title: "炼金术",
+		icon: "projecte:item.pe_transmutation_tablet"
+	}],
+	rewards: [{
+		uid: "f590dc23",
+		type: "item",
+		item: "projecte:item.pe_covalence_dust"
+	},
+	{
+		uid: "f6e1208e",
+		type: "item",
+		item: "projecte:item.pe_transmutation_tablet"
+	}]
+}

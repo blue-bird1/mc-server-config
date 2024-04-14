@@ -1,0 +1,18 @@
+{
+	title: "高级外星材料",
+	x: 11.5d,
+	y: -1.0d,
+	text: [
+		"由陨石制作的更高级外星合金材料"
+	],
+	dependencies: [
+		"495b69c0"
+	],
+	tasks: [{
+		uid: "d740a885",
+		type: "item",
+		items: [{
+			item: "threng:material"
+		}]
+	}]
+}

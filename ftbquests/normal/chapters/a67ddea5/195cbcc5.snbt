@@ -1,0 +1,16 @@
+{
+	icon: "projecte:item.pe_transmutation_tablet",
+	x: -1.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d591af16",
+		type: "checkmark",
+		title: "领取转换桌"
+	}],
+	rewards: [{
+		uid: "05d2af98",
+		type: "item",
+		item: "projecte:item.pe_transmutation_tablet"
+	}]
+}

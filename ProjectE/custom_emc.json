@@ -1,0 +1,168 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 0
+    },
+    {
+      "item": "OD|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:golden_rail|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:detector_rail|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rail|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:activator_rail|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carpet|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:filled_map|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wool|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mutton|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dye|15",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:reeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rabbit|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chicken|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beef|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rotten_flesh|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stone|*",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:grass|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:ice|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:snow|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sapling|*",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:yellow_flower|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon_block|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:pumpkin|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dye|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cactus|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carrot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:brown_mushroom|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:vine|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:red_mushroom|0",
+      "emc": 0
+    },
+    {
+      "item": "contenttweaker:emc_coin_10000|0",
+      "emc": 10000
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|0",
+      "emc": 640
+    },
+    {
+      "item": "minecraft:water_bucket|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald|0",
+      "emc": 1024
+    },
+    {
+      "item": "hbm:lignite|0",
+      "emc": 64
+    }
+  ]
+}

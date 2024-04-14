@@ -1,0 +1,10 @@
+{
+	title: "第一章 世界的终末",
+	icon: "projecte:transmutation_table",
+	description: [
+		"来到了新世界"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "circle"
+}

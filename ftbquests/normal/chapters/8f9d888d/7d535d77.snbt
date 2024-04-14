@@ -1,0 +1,33 @@
+{
+	title: "金属炼金",
+	icon: "minecraft:iron_pickaxe",
+	x: 10.5d,
+	y: 0.5d,
+	text: [
+		"购买了足够的知识后再使用emc提升炼金能力就可以用工作台制作金属工具"
+	],
+	min_required_dependencies: 1,
+	dependencies: [
+		"d61352d6",
+		"52ff8a5d"
+	],
+	tasks: [{
+		uid: "6b9ffe62",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_book"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "ea5a54ef",
+		type: "emc",
+		value: 81920L
+	}],
+	rewards: [{
+		uid: "694985da",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "iron"
+	}]
+}

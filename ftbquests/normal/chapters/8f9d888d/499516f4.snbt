@@ -1,0 +1,19 @@
+{
+	title: "炼金石镐",
+	x: 6.0d,
+	y: 2.0d,
+	text: [
+		"厌倦了把圆石手动换成emc？为石镐增加一些神秘的炼金术吧,它会把每个掉落物换成1emc"
+	],
+	dependencies: [
+		"ecebcfa0"
+	],
+	optional: true,
+	tasks: [{
+		uid: "1e8903d6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:magic_stone_pickaxe"
+		}]
+	}]
+}

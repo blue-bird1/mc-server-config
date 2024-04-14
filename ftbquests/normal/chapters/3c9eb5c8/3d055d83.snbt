@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	dependencies: [
+		"df9c94bc"
+	],
+	tasks: [{
+		uid: "e4589407",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_steel"
+		}]
+	}],
+	rewards: [{
+		uid: "4070ed55",
+		type: "gamestage",
+		auto: "enabled",
+		stage: "steel"
+	}]
+}

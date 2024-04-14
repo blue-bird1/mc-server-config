@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	dependencies: [
+		"3896d38a"
+	],
+	tasks: [{
+		uid: "69524b6b",
+		type: "item",
+		items: [{
+			item: "hbm:waste_uranium"
+		}]
+	},
+	{
+		uid: "7c3de6d3",
+		type: "item",
+		items: [{
+			item: "hbm:machine_waste_drum"
+		}]
+	}]
+}

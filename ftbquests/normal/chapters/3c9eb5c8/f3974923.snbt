@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 6.0d,
+	dependencies: [
+		"419321b7"
+	],
+	optional: true,
+	tasks: [{
+		uid: "19718044",
+		type: "item",
+		items: [{
+			item: "hbm:wings_limp"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

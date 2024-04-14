@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"12c55763"
+	],
+	tasks: [{
+		uid: "bdac3021",
+		type: "item",
+		items: [{
+			item: "hbm:circuit_copper"
+		}]
+	}]
+}

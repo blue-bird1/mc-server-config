@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: -7.5d,
+	dependencies: [
+		"b3d09523"
+	],
+	optional: true,
+	tasks: [{
+		uid: "0c13e92e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_fraction_tower"
+		}]
+	}]
+}

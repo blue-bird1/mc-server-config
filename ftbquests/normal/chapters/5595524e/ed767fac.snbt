@@ -1,0 +1,24 @@
+{
+	x: 12.5d,
+	y: -6.0d,
+	dependencies: [
+		"ba11e04a"
+	],
+	tasks: [{
+		uid: "1a350b18",
+		type: "item",
+		items: [{
+			item: "hbm:machine_reactor_small"
+		}]
+	},
+	{
+		uid: "32fc9399",
+		type: "item",
+		items: [{
+			id: "hbm:rod_quad_uranium_fuel",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

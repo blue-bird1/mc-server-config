@@ -1,0 +1,16 @@
+{
+	title: "芝加哥反应堆",
+	x: 4.0d,
+	y: -5.0d,
+	text: [
+		"获取钚的另一种方式"
+	],
+	dependencies: [
+		"f12a0b8f"
+	],
+	tasks: [{
+		uid: "d2457538",
+		type: "checkmark",
+		icon: "hbm:pile_rod_source"
+	}]
+}

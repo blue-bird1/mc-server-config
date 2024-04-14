@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	dependencies: [
+		"495b69c0"
+	],
+	tasks: [{
+		uid: "5bb2e792",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

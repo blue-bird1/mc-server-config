@@ -1,0 +1,7 @@
+{
+	title: "化工",
+	icon: "hbm:machine_chemplant",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

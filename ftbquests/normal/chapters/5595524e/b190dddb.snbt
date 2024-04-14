@@ -1,0 +1,28 @@
+{
+	title: "万事就绪",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"拥有足以抵抗任何高温与烈焰的宝具后，可以向地狱进发"
+	],
+	dependencies: [
+		"4dbaff7a",
+		"9f5003f0",
+		"003d4aae"
+	],
+	tasks: [{
+		uid: "15d2a7fc",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_ignition"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5863bd80",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "nether"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 13.5d,
+	y: 1.0d,
+	dependencies: [
+		"23af4da1"
+	],
+	tasks: [{
+		uid: "c176ed61",
+		type: "item",
+		items: [{
+			item: "threng:machine 1 1"
+		}]
+	}]
+}

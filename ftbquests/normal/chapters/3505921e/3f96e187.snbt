@@ -1,0 +1,22 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"72889720"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4ad03fc7",
+		type: "item",
+		items: [{
+			item: "hbm:heater_electric"
+		}]
+	},
+	{
+		uid: "67a39522",
+		type: "item",
+		items: [{
+			item: "hbm:heater_heatex"
+		}]
+	}]
+}

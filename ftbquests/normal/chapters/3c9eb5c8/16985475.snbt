@@ -1,0 +1,16 @@
+{
+	title: "炼金术的力量是有限的",
+	icon: "minecraft:emerald",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"你的力量不足以凭空塑造出复杂的机器"
+	],
+	dependencies: [
+		"8f9d888d"
+	],
+	tasks: [{
+		uid: "eb072a17",
+		type: "checkmark"
+	}]
+}

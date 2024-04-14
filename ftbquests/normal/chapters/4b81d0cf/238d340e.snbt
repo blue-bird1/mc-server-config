@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	dependencies: [
+		"4dcd1e10"
+	],
+	tasks: [{
+		uid: "5cf78ee2",
+		type: "item",
+		items: [{
+			item: "hbm:powder_plutonium"
+		}]
+	}]
+}

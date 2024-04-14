@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: -6.0d,
+	dependencies: [
+		"33ecefb9",
+		"b3d09523"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8c5e4ecf",
+		type: "item",
+		items: [{
+			item: "hbm:machine_diesel"
+		},
+		{
+			item: "hbm:machine_selenium"
+		},
+		{
+			item: "hbm:machine_turbofan"
+		},
+		{
+			item: "hbm:machine_flare"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: -7.5d,
+	dependencies: [
+		"4b832fc6"
+	],
+	tasks: [{
+		uid: "5aba450a",
+		type: "item",
+		items: [{
+			item: "hbm:machine_boiler_electric_off"
+		},
+		{
+			item: "hbm:machine_boiler_off"
+		}]
+	}]
+}

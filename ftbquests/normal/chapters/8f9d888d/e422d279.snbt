@@ -1,0 +1,34 @@
+{
+	title: "杀死野生动物",
+	icon: "minecraft:beef",
+	x: 4.5d,
+	y: -1.5d,
+	text: [
+		"我饿了"
+	],
+	optional: true,
+	tasks: [{
+		uid: "accd71b5",
+		type: "kill",
+		entity: "minecraft:cow",
+		value: 1L
+	},
+	{
+		uid: "c0fee600",
+		type: "kill",
+		entity: "minecraft:pig",
+		value: 1L
+	},
+	{
+		uid: "5a8e1c28",
+		type: "kill",
+		entity: "minecraft:sheep",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d61ac8d8",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 5
+	}]
+}

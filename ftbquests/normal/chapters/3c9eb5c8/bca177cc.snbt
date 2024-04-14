@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"工业第一步，付出高昂的技术费找别人买一台工业母机"
+	],
+	dependencies: [
+		"813c7d61"
+	],
+	tasks: [{
+		uid: "16ca12f8",
+		type: "item",
+		items: [{
+			item: "hbm:machine_press"
+		}]
+	}]
+}

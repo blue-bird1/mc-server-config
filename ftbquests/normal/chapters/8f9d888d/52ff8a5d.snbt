@@ -1,0 +1,32 @@
+{
+	title: "重建与外界的联络",
+	x: 9.0d,
+	y: 0.5d,
+	text: [
+		"构造一台通信机以与世界外交互"
+	],
+	dependencies: [
+		"9edd5d8c"
+	],
+	tasks: [{
+		uid: "70d5e3eb",
+		type: "item",
+		items: [{
+			item: "modularmachinery:void_communicator_controller"
+		}]
+	},
+	{
+		uid: "c7083c98",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockoutputbus"
+		}]
+	},
+	{
+		uid: "ab7ab6d7",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockinputbus"
+		}]
+	}]
+}

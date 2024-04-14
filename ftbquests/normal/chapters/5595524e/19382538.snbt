@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: -8.5d,
+	dependencies: [
+		"f8618d21"
+	],
+	tasks: [{
+		uid: "f66481d2",
+		type: "item",
+		items: [{
+			item: "hbm:heater_rt"
+		}]
+	}]
+}

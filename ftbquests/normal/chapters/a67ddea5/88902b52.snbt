@@ -1,0 +1,29 @@
+{
+	title: "贤者之石",
+	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"献上足够的灵魂作为代替"
+	],
+	dependencies: [
+		"d6ba8e8d"
+	],
+	tasks: [{
+		uid: "6187f94f",
+		type: "kill",
+		entity: "minecraft:villager",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "1a0217a8",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}
+	}]
+}

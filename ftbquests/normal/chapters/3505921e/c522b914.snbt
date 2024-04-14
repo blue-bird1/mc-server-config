@@ -1,0 +1,16 @@
+{
+	title: "化工时代",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"获得了装配机，工业制造自给自足后，该进一步了"
+	],
+	dependencies: [
+		"c3f4dbba"
+	],
+	tasks: [{
+		uid: "b3eb32e3",
+		type: "checkmark",
+		icon: "hbm:machine_assembler"
+	}]
+}

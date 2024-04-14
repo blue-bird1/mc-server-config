@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	dependencies: [
+		"eb979359"
+	],
+	tasks: [{
+		uid: "c5c025c6",
+		type: "item",
+		items: [{
+			item: "hbm:ore_schrabidium"
+		}]
+	}]
+}

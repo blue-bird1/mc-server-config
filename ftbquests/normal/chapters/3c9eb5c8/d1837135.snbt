@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"再找人买点技术资料"
+	],
+	dependencies: [
+		"bca177cc"
+	],
+	tasks: [{
+		uid: "1215022c",
+		type: "item",
+		items: [{
+			item: "hbm:template_folder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

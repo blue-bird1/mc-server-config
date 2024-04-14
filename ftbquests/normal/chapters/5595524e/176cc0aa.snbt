@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -2.5d,
+	dependencies: [
+		"f12a0b8f"
+	],
+	tasks: [{
+		uid: "8a7814c9",
+		type: "item",
+		items: [{
+			item: "hbm:powder_yellowcake"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "增强自己的炼金能力",
+	icon: "minecraft:stone",
+	x: 4.5d,
+	y: 0.5d,
+	text: [
+		"付出一些emc强化自己的炼金术，使得工作台能够溶解石头"
+	],
+	dependencies: [
+		"c59e9fc2"
+	],
+	tasks: [{
+		uid: "b9d9ac5e",
+		type: "emc",
+		value: 8192L
+	}],
+	rewards: [{
+		uid: "dc98179d",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "stone"
+	}]
+}

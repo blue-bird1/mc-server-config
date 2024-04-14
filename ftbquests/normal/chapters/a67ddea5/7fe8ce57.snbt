@@ -1,0 +1,28 @@
+{
+	title: "贤者之石",
+	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"千万emc凝聚于一心 创造的奇迹"
+	],
+	dependencies: [
+		"d6ba8e8d"
+	],
+	tasks: [{
+		uid: "57be7ba9",
+		type: "emc",
+		value: 10000000L
+	}],
+	rewards: [{
+		uid: "0bce8141",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}
+	}]
+}

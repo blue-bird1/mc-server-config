@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"d6ba8e8d"
+	],
+	tasks: [{
+		uid: "5a934b18",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_lava_orb"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: 1.5d,
+	text: [
+		"手搓线缆"
+	],
+	dependencies: [
+		"419321b7",
+		"b3825564",
+		"d17a1458"
+	],
+	tasks: [{
+		uid: "3f2c3fde",
+		type: "item",
+		items: [{
+			item: "hbm:red_cable"
+		}]
+	}]
+}

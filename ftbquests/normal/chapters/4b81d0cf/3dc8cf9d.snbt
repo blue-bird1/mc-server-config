@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: -6.0d,
+	dependencies: [
+		"39c3acac"
+	],
+	tasks: [{
+		uid: "fabd6a3e",
+		type: "item",
+		items: [{
+			id: "hbm:rod_plutonium_fuel",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

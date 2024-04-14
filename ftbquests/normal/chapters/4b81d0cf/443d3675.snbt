@@ -1,0 +1,56 @@
+{
+	x: 9.5d,
+	y: -1.5d,
+	dependencies: [
+		"059a6647"
+	],
+	tasks: [{
+		uid: "99e81e1c",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_blank"
+		}]
+	},
+	{
+		uid: "613ca29d",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_rod"
+		}]
+	},
+	{
+		uid: "886a9ba2",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_boiler"
+		}]
+	},
+	{
+		uid: "28c953dd",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_reflector"
+		}]
+	},
+	{
+		uid: "347407ea",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_outgasser"
+		}]
+	},
+	{
+		uid: "6f8ec1af",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_loader"
+		}]
+	},
+	{
+		uid: "e10d16bb",
+		type: "item",
+		items: [{
+			item: "hbm:rbmk_moderator"
+		}]
+	}]
+}

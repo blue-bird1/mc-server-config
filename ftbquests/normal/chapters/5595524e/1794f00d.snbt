@@ -1,0 +1,15 @@
+{
+	x: 17.0d,
+	y: -2.0d,
+	dependencies: [
+		"8f75447e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "898f0a02",
+		type: "item",
+		items: [{
+			item: "hbm:machine_excavator"
+		}]
+	}]
+}

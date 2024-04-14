@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"b8122092"
+	],
+	tasks: [{
+		uid: "deee32fb",
+		type: "item",
+		items: [{
+			item: "hbm:yellow_barrel"
+		}]
+	}]
+}

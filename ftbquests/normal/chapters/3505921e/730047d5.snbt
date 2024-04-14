@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	text: [
+		"简单的合金"
+	],
+	dependencies: [
+		"c522b914"
+	],
+	tasks: [{
+		uid: "0014f183",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_advanced_alloy"
+		}],
+		count: 64L
+	}]
+}

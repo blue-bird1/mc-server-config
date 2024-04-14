@@ -1,0 +1,7 @@
+{
+	title: "重归工业化",
+	icon: "hbm:machine_press",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,29 @@
+{
+	title: "离心枯竭产物",
+	x: 1.0d,
+	y: 0.5d,
+	dependencies: [
+		"b8122092"
+	],
+	tasks: [{
+		uid: "c6e5b14e",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_technetium"
+		}]
+	},
+	{
+		uid: "cb3d50ca",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_pu_mix"
+		}]
+	},
+	{
+		uid: "0d02f464",
+		type: "item",
+		items: [{
+			item: "hbm:nugget_plutonium"
+		}]
+	}]
+}

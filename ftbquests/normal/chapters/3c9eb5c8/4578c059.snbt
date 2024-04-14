@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	text: [
+		"用铁强化保温效果"
+	],
+	dependencies: [
+		"8ec832a1"
+	],
+	tasks: [{
+		uid: "fa35f2e7",
+		type: "item",
+		items: [{
+			item: "hbm:furnace_iron"
+		}]
+	}]
+}

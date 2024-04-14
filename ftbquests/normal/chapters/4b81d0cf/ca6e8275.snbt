@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	text: [
+		"更便宜的选择"
+	],
+	dependencies: [
+		"39c3acac"
+	],
+	tasks: [{
+		uid: "936db7bd",
+		type: "item",
+		items: [{
+			id: "hbm:rod_mox_fuel",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

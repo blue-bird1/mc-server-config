@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -1.0d,
+	dependencies: [
+		"6dee1ebb"
+	],
+	tasks: [{
+		uid: "4759390c",
+		type: "item",
+		items: [{
+			item: "hbm:anvil_meteorite"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 1.5d,
+	text: [
+		"年轻人第一台发电机"
+	],
+	dependencies: [
+		"3d055d83"
+	],
+	tasks: [{
+		uid: "388bfb50",
+		type: "item",
+		items: [{
+			item: "hbm:machine_coal_off"
+		}]
+	}]
+}

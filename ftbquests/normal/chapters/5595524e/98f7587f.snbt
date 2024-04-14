@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"b190dddb"
+	],
+	tasks: [{
+		uid: "7254cdc3",
+		type: "item",
+		items: [{
+			item: "hbm:ore_nether_fire"
+		}]
+	},
+	{
+		uid: "e8c5cc89",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_powder"
+		}]
+	}]
+}

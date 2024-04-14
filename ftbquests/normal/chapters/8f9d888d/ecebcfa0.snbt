@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 0.5d,
+	dependencies: [
+		"2588045f"
+	],
+	tasks: [{
+		uid: "468bbe5e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "34e7416d",
+		type: "item",
+		item: "minecraft:bread"
+	}]
+}

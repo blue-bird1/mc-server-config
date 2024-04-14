@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"421878b7",
+		"1de4bab3"
+	],
+	tasks: [{
+		uid: "b4726caf",
+		type: "item",
+		items: [{
+			item: "hbm:machine_reactor"
+		}]
+	}]
+}

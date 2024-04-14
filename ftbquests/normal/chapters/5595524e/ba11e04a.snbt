@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: -5.0d,
+	dependencies: [
+		"2e231d13",
+		"81b3110c"
+	],
+	tasks: [{
+		uid: "a6d141e2",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_uranium_fuel"
+		}]
+	}]
+}

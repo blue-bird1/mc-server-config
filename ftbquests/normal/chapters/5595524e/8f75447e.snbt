@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: -3.5d,
+	dependencies: [
+		"f8d852a4",
+		"f1023d2d"
+	],
+	tasks: [{
+		uid: "4fccc19a",
+		type: "item",
+		items: [{
+			item: "hbm:circuit_red_copper"
+		}]
+	}]
+}

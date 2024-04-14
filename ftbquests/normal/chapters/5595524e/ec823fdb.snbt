@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"b190dddb"
+	],
+	tasks: [{
+		uid: "9ae7b376",
+		type: "item",
+		items: [{
+			item: "hbm:fluorite"
+		}]
+	}]
+}

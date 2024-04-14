@@ -1,0 +1,25 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	dependencies: [
+		"419321b7"
+	],
+	optional: true,
+	tasks: [{
+		uid: "4f2b9eee",
+		type: "item",
+		items: [{
+			item: "hbm:furnace_steel"
+		}]
+	},
+	{
+		uid: "0f40ce14",
+		type: "item",
+		items: [{
+			item: "hbm:heater_oven"
+		},
+		{
+			item: "hbm:heater_firebox"
+		}]
+	}]
+}

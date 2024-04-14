@@ -1,0 +1,22 @@
+{
+	title: "劫掠原居民",
+	x: 6.0d,
+	y: -1.5d,
+	text: [
+		"你在世界发现了一些傻傻的原住民,他们还有好多绿宝石"
+	],
+	optional: true,
+	tasks: [{
+		uid: "eba6da9f",
+		type: "kill",
+		icon: "minecraft:emerald",
+		entity: "minecraft:villager",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "242a5850",
+		type: "item",
+		item: "minecraft:emerald",
+		count: 5
+	}]
+}
