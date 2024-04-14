@@ -1,0 +1,25 @@
+{
+	title: "魔法世界",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"这个世界具有高强度的魔力，在带来高价值魔法物品的同时，对普通工艺制作的铠甲造成了强烈的腐蚀.",
+		"并且高浓度的魔力下的物种相当皮糙肉厚，进化出了斩击类伤害的抗性，但并不抵抗穿透类伤害 如子弹，弓箭"
+	],
+	dependencies: [
+		"e5a7e1c4"
+	],
+	tasks: [{
+		uid: "7f42220f",
+		type: "checkmark",
+		icon: {
+			id: "twilightforest:naga_chestplate",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 1s
+				}]
+			}
+		}
+	}]
+}

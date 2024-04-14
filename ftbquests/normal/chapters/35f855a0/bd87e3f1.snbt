@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"128000emc"
+	],
+	dependencies: [
+		"17849041"
+	],
+	tasks: [{
+		uid: "357fc1ae",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}]
+	}]
+}

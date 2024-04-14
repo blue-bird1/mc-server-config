@@ -1,0 +1,24 @@
+{
+	title: "炼金术容器",
+	x: 7.5d,
+	y: -1.5d,
+	text: [
+		""
+	],
+	optional: true,
+	tasks: [{
+		uid: "facfc117",
+		type: "item",
+		items: [{
+			item: "projecte:alchemical_chest"
+		}]
+	},
+	{
+		uid: "f10d2ce2",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_alchemical_bag"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,45 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	text: [
+		"护甲升级"
+	],
+	dependencies: [
+		"17849041"
+	],
+	tasks: [{
+		uid: "97dcb734",
+		type: "item",
+		items: [{
+			id: "twilightforest:naga_chestplate",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 1s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1b0a0b71",
+		type: "item",
+		items: [{
+			id: "twilightforest:naga_leggings",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5617cb9d",
+		type: "item",
+		item: "twilightforest:charm_of_life_2"
+	}]
+}

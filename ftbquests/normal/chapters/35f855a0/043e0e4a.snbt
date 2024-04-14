@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: -1.5d,
+	text: [
+		"探索世界所必备的地图"
+	],
+	dependencies: [
+		"3893f410"
+	],
+	optional: true,
+	tasks: [{
+		uid: "108c3d71",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_map_empty"
+		}]
+	}]
+}

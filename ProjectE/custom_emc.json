@@ -163,6 +163,18 @@
     {
       "item": "hbm:lignite|0",
       "emc": 64
+    },
+    {
+      "item": "twilightforest:trophy|0",
+      "emc": 64000
+    },
+    {
+      "item": "twilightforest:trophy|1",
+      "emc": 128000
+    },
+    {
+      "item": "minecraft:stone_slab|3",
+      "emc": 1
     }
   ]
 }
