@@ -20,16 +20,19 @@
 	rewards: [{
 		uid: "b963dc29",
 		type: "item",
+		team_reward: true,
 		item: "appliedenergistics2:energy_acceptor"
 	},
 	{
 		uid: "e910f6c0",
 		type: "item",
+		team_reward: true,
 		item: "hbm:machine_converter_he_rf"
 	},
 	{
 		uid: "b135647c",
 		type: "item",
+		team_reward: true,
 		item: "appliedenergistics2:part 1 16",
 		count: 64
 	}]

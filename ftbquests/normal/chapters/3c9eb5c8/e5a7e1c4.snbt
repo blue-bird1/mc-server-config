@@ -1,0 +1,35 @@
+{
+	title: "前往暮色森林",
+	icon: "twilightforest:miniature_structure",
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		"这个世界存在一个距离非常近的亚空间，搭建2*2的水在旁边放上花，再丢入一个钻石就可以搭建魔法传送门"
+	],
+	dependencies: [
+		"16985475"
+	],
+	tasks: [{
+		uid: "13dd3ec7",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	},
+	{
+		uid: "0bd07096",
+		type: "dimension",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "680bcfda",
+		type: "item",
+		item: "hbm:gun_revolver_iron"
+	},
+	{
+		uid: "aa72995f",
+		type: "item",
+		item: "hbm:gun_revolver_iron_ammo",
+		count: 6
+	}]
+}
