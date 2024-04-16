@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	text: [
+		"早期便宜的治疗物"
+	],
+	dependencies: [
+		"3893f410"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a5bbd3f4",
+		type: "item",
+		items: [{
+			item: "hbm:iv_empty"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 5.0d,
+	text: [
+		"在遗迹中发现的可乐瓶盖似乎是某个文明的通用货币"
+	],
+	dependencies: [
+		"df9c94bc"
+	],
+	tasks: [{
+		uid: "8f2dd25c",
+		type: "item",
+		items: [{
+			item: "hbm:bobmazon_materials"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

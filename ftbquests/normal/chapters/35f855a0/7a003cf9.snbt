@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	text: [
+		"最早的工业药水"
+	],
+	dependencies: [
+		"3893f410"
+	],
+	tasks: [{
+		uid: "ea68ed75",
+		type: "item",
+		items: [{
+			item: "hbm:bottle_nuka"
+		}]
+	}]
+}
