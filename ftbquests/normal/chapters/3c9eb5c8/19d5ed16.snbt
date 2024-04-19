@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -5.5d,
+	dependencies: [
+		"ac208a14",
+		"3d055d83"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8d865372",
+		type: "item",
+		items: [{
+			item: "hbm:crate_steel"
+		}]
+	}],
+	rewards: [{
+		uid: "5fbcf594",
+		type: "item",
+		team_reward: true,
+		item: "hbm:crate_steel"
+	}]
+}

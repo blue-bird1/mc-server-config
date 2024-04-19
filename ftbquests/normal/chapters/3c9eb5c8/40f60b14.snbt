@@ -21,5 +21,12 @@
 		items: [{
 			item: "hbm:machine_boiler_off"
 		}]
+	},
+	{
+		uid: "88ea27e1",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_mk2"
+		}]
 	}]
 }

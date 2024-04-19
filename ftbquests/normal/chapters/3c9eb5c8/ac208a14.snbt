@@ -1,12 +1,13 @@
 {
-	x: -2.0d,
-	y: 2.5d,
+	x: 2.0d,
+	y: -4.0d,
 	text: [
 		"掉落时保留所有物品的高级箱子"
 	],
 	dependencies: [
 		"bca177cc"
 	],
+	optional: true,
 	tasks: [{
 		uid: "09a3858e",
 		type: "item",

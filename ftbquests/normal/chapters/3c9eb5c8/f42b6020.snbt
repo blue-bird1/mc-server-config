@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	text: [
+		"本包前期唯一物流方式，快造一些吧"
+	],
+	dependencies: [
+		"bca177cc"
+	],
+	optional: true,
+	tasks: [{
+		uid: "57566df3",
+		type: "item",
+		items: [{
+			item: "hbm:crane_inserter"
+		}]
+	},
+	{
+		uid: "0c37cd47",
+		type: "item",
+		items: [{
+			item: "hbm:crane_ejector"
+		}]
+	}]
+}

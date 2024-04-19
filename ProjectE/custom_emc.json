@@ -166,15 +166,35 @@
     },
     {
       "item": "twilightforest:trophy|0",
-      "emc": 64000
+      "emc": 128000
     },
     {
       "item": "twilightforest:trophy|1",
-      "emc": 128000
+      "emc": 256000
     },
     {
       "item": "minecraft:stone_slab|3",
       "emc": 1
+    },
+    {
+      "item": "twilightforest:trophy|5",
+      "emc": 512000
+    },
+    {
+      "item": "twilightforest:trophy|2",
+      "emc": 512000
+    },
+    {
+      "item": "twilightforest:trophy|3",
+      "emc": 512000
+    },
+    {
+      "item": "twilightforest:trophy|4",
+      "emc": 256000
+    },
+    {
+      "item": "twilightforest:trophy|6",
+      "emc": 256000
     }
   ]
 }
