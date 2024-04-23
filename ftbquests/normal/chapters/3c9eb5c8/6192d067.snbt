@@ -9,6 +9,7 @@
 		"b3825564",
 		"d17a1458"
 	],
+	optional: true,
 	tasks: [{
 		uid: "3f2c3fde",
 		type: "item",

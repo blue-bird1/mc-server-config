@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"见鬼 魔法世界怎么有人玩反应堆，还失控爆炸了，满地都是辐射。 （准备抗辐射套装和足够的抗辐射药再前往吧）"
+	],
+	dependencies: [
+		"002d0e64"
+	],
+	tasks: [{
+		uid: "6ba49436",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 3"
+		}]
+	}]
+}

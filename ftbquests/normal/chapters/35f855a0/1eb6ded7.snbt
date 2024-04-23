@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	text: [
+		"九头蛇砍掉一个头，还会再长一个头 （具有生命恢复能力，使用高伤害吧）"
+	],
+	dependencies: [
+		"ce97f5bb"
+	],
+	tasks: [{
+		uid: "baafeb8f",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 2"
+		}]
+	}]
+}

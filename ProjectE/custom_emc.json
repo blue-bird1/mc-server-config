@@ -178,15 +178,15 @@
     },
     {
       "item": "twilightforest:trophy|5",
-      "emc": 512000
+      "emc": 2048000
     },
     {
       "item": "twilightforest:trophy|2",
-      "emc": 512000
+      "emc": 2048000
     },
     {
       "item": "twilightforest:trophy|3",
-      "emc": 512000
+      "emc": 2048000
     },
     {
       "item": "twilightforest:trophy|4",
@@ -195,6 +195,30 @@
     {
       "item": "twilightforest:trophy|6",
       "emc": 256000
+    },
+    {
+      "item": "twilightforest:twilight_scepter|0",
+      "emc": 256000
+    },
+    {
+      "item": "twilightforest:lifedrain_scepter|0",
+      "emc": 256000
+    },
+    {
+      "item": "twilightforest:zombie_scepter|0",
+      "emc": 256000
+    },
+    {
+      "item": "twilightforest:shield_scepter|0",
+      "emc": 256000
+    },
+    {
+      "item": "hbm:ingot_tungsten|0",
+      "emc": 512
+    },
+    {
+      "item": "contenttweaker:emc_coin_100000|0",
+      "emc": 100000
     }
   ]
 }

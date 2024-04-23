@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	text: [
+		"能得到的第一套魔法铠甲"
+	],
+	dependencies: [
+		"3893f410"
+	],
+	tasks: [{
+		uid: "2e30d389",
+		type: "item",
+		items: [{
+			id: "twilightforest:ironwood_chestplate",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	text: [
+		"在前往冰雪女王的城堡之前需要获取一套温暖的衣服，否则在冰冷的山峰上寸步难行(获得冰冻4 buff)"
+	],
+	dependencies: [
+		"bd87e3f1"
+	],
+	tasks: [{
+		uid: "4bc6367c",
+		type: "item",
+		items: [{
+			item: "twilightforest:alpha_fur"
+		}]
+	}]
+}

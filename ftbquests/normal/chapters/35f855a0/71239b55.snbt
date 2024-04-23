@@ -1,0 +1,23 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"冰雪女王的元素身躯免疫爆炸，魔法，燃烧外所有伤害"
+	],
+	dependencies: [
+		"7054b839"
+	],
+	tasks: [{
+		uid: "37683c49",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "69069b81",
+		type: "item",
+		team_reward: true,
+		item: "projecte:item.pe_evertide_amulet"
+	}]
+}

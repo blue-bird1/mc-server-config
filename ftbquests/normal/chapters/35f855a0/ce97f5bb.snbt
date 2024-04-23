@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"在炙热的沼泽，高温难耐，必须速战速决 (300s后收到火焰伤害)"
+	],
+	dependencies: [
+		"bd87e3f1"
+	],
+	tasks: [{
+		uid: "d84856f8",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 6"
+		}]
+	}]
+}

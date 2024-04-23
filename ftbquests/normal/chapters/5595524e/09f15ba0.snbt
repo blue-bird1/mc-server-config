@@ -1,0 +1,17 @@
+{
+	x: 13.0d,
+	y: 2.5d,
+	text: [
+		"聚合物锭的代替物"
+	],
+	dependencies: [
+		"98d0c8ca"
+	],
+	tasks: [{
+		uid: "b57ca8dc",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bakelite"
+		}]
+	}]
+}

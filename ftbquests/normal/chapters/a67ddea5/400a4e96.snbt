@@ -1,0 +1,20 @@
+{
+	title: "emc代币",
+	icon: "contenttweaker:emc_coin_100000",
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	tasks: [{
+		uid: "46e0bf02",
+		type: "emc",
+		value: 100000L
+	}],
+	rewards: [{
+		uid: "f91bf9b1",
+		type: "item",
+		item: "contenttweaker:emc_coin_100000"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	text: [
+		"具有如此强的魔力， 却只能召唤这么弱鸡的僵尸，这么浪费不能忍.只需要对它执行一点点修改"
+	],
+	dependencies: [
+		"bd87e3f1"
+	],
+	tasks: [{
+		uid: "d158893b",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:smart_slab"
+		}],
+		ignore_nbt: 1b
+	}]
+}

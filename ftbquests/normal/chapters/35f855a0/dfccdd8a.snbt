@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 1.5d,
+	dependencies: [
+		"17849041"
+	],
+	tasks: [{
+		uid: "317c56d4",
+		type: "item",
+		items: [{
+			item: "hbm:machine_armor_table"
+		}]
+	}]
+}

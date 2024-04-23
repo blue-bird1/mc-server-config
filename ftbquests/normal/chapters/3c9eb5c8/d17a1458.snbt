@@ -9,6 +9,7 @@
 		"40f60b14"
 	],
 	dependency_requirement: "one_completed",
+	optional: true,
 	tasks: [{
 		uid: "e0369335",
 		type: "item",
