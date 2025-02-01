@@ -10,5 +10,12 @@
 		items: [{
 			item: "appliedenergistics2:material 1 7"
 		}]
+	}],
+	rewards: [{
+		uid: "45517af0",
+		type: "item",
+		team_reward: true,
+		item: "appliedenergistics2:part 1 16",
+		count: 64
 	}]
 }

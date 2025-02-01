@@ -1,0 +1,60 @@
+{
+	title: "低级燃油",
+	x: 13.5d,
+	y: -5.5d,
+	text: [
+		"星型发电机等使用的燃油"
+	],
+	dependencies: [
+		"6fe960ce"
+	],
+	tasks: [{
+		uid: "a981d1ea",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "heavyoil",
+					Amount: 1000
+				}
+			}
+		},
+		{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "reclaimed",
+					Amount: 1000
+				}
+			}
+		},
+		{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "heatingoil",
+					Amount: 1000
+				}
+			}
+		},
+		{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "fishoil",
+					Amount: 1000
+				}
+			}
+		},
+		{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "sunfloweroil",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

@@ -1,12 +1,38 @@
 {
+	title: "提取氧气",
 	x: 5.5d,
 	y: -7.5d,
+	text: [
+		""
+	],
 	dependencies: [
 		"33ecefb9"
 	],
 	tasks: [{
-		uid: "87cc520d",
-		type: "fluid",
-		fluid: "oxygen"
+		uid: "dcf34a1f",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "oxygen",
+					Amount: 1000
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3b6294da",
+		type: "item",
+		team_reward: false,
+		item: {
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "oxygen",
+					Amount: 1000
+				}
+			}
+		}
 	}]
 }

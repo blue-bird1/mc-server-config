@@ -219,6 +219,22 @@
     {
       "item": "contenttweaker:emc_coin_100000|0",
       "emc": 100000
+    },
+    {
+      "item": "appliedenergistics2:material|2",
+      "emc": 1080
+    },
+    {
+      "item": "twilightforest:trophy|8",
+      "emc": 256000
+    },
+    {
+      "item": "twilightforest:huge_stalk|0",
+      "emc": 512
+    },
+    {
+      "item": "hbm:biomass|0",
+      "emc": 0
     }
   ]
 }

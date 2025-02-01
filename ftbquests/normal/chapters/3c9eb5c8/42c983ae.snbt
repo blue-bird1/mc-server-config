@@ -1,6 +1,9 @@
 {
 	x: 10.5d,
 	y: -2.5d,
+	text: [
+		"功率非常强劲 不仅能烤食物"
+	],
 	dependencies: [
 		"c3f4dbba"
 	],

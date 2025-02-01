@@ -1,0 +1,55 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"见鬼，你杀了多少只僵尸？ 好吧 这是你的奖励"
+	],
+	tasks: [{
+		uid: "9435531d",
+		type: "item",
+		items: [{
+			item: "minecraft:chainmail_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "287f30e7",
+		type: "item",
+		items: [{
+			item: "minecraft:chainmail_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7b4989c3",
+		type: "item",
+		items: [{
+			item: "minecraft:chainmail_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1803402a",
+		type: "item",
+		items: [{
+			item: "minecraft:chainmail_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f409ed04",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:enchanting_table"
+	},
+	{
+		uid: "dee6977e",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:ender_chest"
+	}]
+}

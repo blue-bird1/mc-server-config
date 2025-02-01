@@ -1,0 +1,12 @@
+{
+	title: "护甲",
+	icon: {
+		id: "hbm:dns_plate",
+		tag: {
+			charge: 1000000000L
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

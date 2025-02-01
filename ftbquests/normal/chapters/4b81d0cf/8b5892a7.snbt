@@ -1,0 +1,34 @@
+{
+	title: "发射卫星",
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"发射卫星来了解这个世界"
+	],
+	dependencies: [
+		"891dab1a"
+	],
+	tasks: [{
+		uid: "87d5bd2e",
+		type: "item",
+		items: [{
+			item: "hbm:sat_base"
+		}]
+	},
+	{
+		uid: "c434fa9e",
+		type: "item",
+		items: [{
+			item: "hbm:machine_satlinker"
+		}]
+	},
+	{
+		uid: "46a2a940",
+		type: "item",
+		items: [{
+			item: "hbm:sat_chip"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

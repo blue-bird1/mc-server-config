@@ -1,0 +1,46 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "24903f77",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1386ee1e",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9706e341",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "caa72b01",
+		type: "item",
+		items: [{
+			item: "hbm:titanium_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5814aded",
+		type: "item",
+		item: "hbm:ingot_titanium",
+		count: 6
+	}]
+}

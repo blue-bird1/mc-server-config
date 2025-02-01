@@ -10,5 +10,11 @@
 		items: [{
 			item: "modularmachinery:furnace_controller"
 		}]
+	}],
+	rewards: [{
+		uid: "613b39b2",
+		type: "item",
+		team_reward: true,
+		item: "hbm:machine_converter_he_rf"
 	}]
 }

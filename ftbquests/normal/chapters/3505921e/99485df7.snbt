@@ -1,0 +1,27 @@
+{
+	x: 3.0d,
+	y: -10.0d,
+	dependencies: [
+		"9bc18eb6"
+	],
+	tasks: [{
+		uid: "624f3d43",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}]
+	}],
+	rewards: [{
+		uid: "b6cfd414",
+		type: "item",
+		team_reward: false,
+		item: "appliedenergistics2:interface"
+	},
+	{
+		uid: "7288f885",
+		type: "item",
+		team_reward: false,
+		item: "appliedenergistics2:part 1 16",
+		count: 32
+	}]
+}

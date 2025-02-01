@@ -1,0 +1,47 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a2735955",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "00680e61",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a016e148",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1b0a1901",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "615bcb7b",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:gold_ingot",
+		count: 6
+	}]
+}

@@ -13,5 +13,12 @@
 		items: [{
 			item: "twilightforest:trophy 1 6"
 		}]
+	}],
+	rewards: [{
+		uid: "9435da80",
+		type: "gamestage",
+		icon: "twilightforest:meef_stroganoff",
+		auto: "enabled",
+		stage: "hydra"
 	}]
 }

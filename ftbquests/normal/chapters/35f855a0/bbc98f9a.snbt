@@ -1,0 +1,38 @@
+{
+	x: 7.0d,
+	y: 0.0d,
+	text: [
+		"神奇的种子，作为建筑的同时也是值钱的魔法材料"
+	],
+	dependencies: [
+		"1eb6ded7",
+		"71239b55",
+		"74969cec"
+	],
+	tasks: [{
+		uid: "fe6fefc7",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_beans"
+		}]
+	},
+	{
+		uid: "454981eb",
+		type: "item",
+		items: [{
+			item: "twilightforest:uberous_soil"
+		}]
+	},
+	{
+		uid: "f11c77ce",
+		type: "item",
+		items: [{
+			item: "twilightforest:huge_stalk"
+		}]
+	}],
+	rewards: [{
+		uid: "3f06e5ef",
+		type: "item",
+		item: "twilightforest:magic_beans"
+	}]
+}

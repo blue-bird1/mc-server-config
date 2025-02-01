@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	text: [
+		"用魔豆前往云上的巨人小屋，拿到巨型石镐，挖开巨型黑耀石获得"
+	],
+	dependencies: [
+		"bbc98f9a"
+	],
+	tasks: [{
+		uid: "e3d12473",
+		type: "item",
+		items: [{
+			item: "twilightforest:lamp_of_cinders"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

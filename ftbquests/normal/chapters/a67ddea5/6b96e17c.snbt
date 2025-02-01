@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "262159fe",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "853c11b7",
+		type: "item",
+		item: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "twilightforest:lich"
+				}
+			}
+		}
+	}]
+}

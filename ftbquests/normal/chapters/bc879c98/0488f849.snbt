@@ -1,0 +1,49 @@
+{
+	x: -2.0d,
+	y: 0.5d,
+	text: [
+		"最简陋的护甲"
+	],
+	tasks: [{
+		uid: "c2469d99",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1f36ba22",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "668abd72",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f9ac2a4e",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f17d0b7f",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 6
+	}]
+}

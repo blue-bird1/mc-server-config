@@ -4,6 +4,7 @@
 	dependencies: [
 		"4b832fc6"
 	],
+	optional: true,
 	tasks: [{
 		uid: "0ccabb99",
 		type: "item",
@@ -12,6 +13,19 @@
 			tag: {
 				HbmFluidKey: {
 					FluidName: "oil",
+					Amount: 1000
+				}
+			}
+		}]
+	},
+	{
+		uid: "9a9561de",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "gas",
 					Amount: 1000
 				}
 			}

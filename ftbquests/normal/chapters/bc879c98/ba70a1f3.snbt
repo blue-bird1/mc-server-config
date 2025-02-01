@@ -1,0 +1,46 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "4c1ed342",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b3174155",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "128f5ecb",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9eb4ca1c",
+		type: "item",
+		items: [{
+			item: "hbm:alloy_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5f10616b",
+		type: "item",
+		item: "hbm:ingot_advanced_alloy",
+		count: 6
+	}]
+}

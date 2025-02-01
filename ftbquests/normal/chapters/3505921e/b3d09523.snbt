@@ -10,5 +10,32 @@
 		items: [{
 			item: "hbm:machine_refinery"
 		}]
+	},
+	{
+		uid: "f13fdce1",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "hotoil",
+					Amount: 1000
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "a20b4792",
+		type: "item",
+		item: {
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "hotoil",
+					Amount: 1000
+				}
+			}
+		},
+		count: 16
 	}]
 }

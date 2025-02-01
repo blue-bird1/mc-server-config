@@ -1,0 +1,70 @@
+{
+	title: "炼油产物",
+	x: 11.5d,
+	y: -9.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b3d09523"
+	],
+	tasks: [{
+		uid: "f7bb6bc6",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "heavyoil",
+					Amount: 1000
+				}
+			}
+		}]
+	},
+	{
+		uid: "d11a5332",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "lightoil",
+					Amount: 1000
+				}
+			}
+		}]
+	},
+	{
+		uid: "47780a3a",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "naphtha",
+					Amount: 1000
+				}
+			}
+		}]
+	},
+	{
+		uid: "db5c3ff1",
+		type: "item",
+		items: [{
+			item: "hbm:sulfur"
+		}]
+	},
+	{
+		uid: "95ab39ad",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "petroleum",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

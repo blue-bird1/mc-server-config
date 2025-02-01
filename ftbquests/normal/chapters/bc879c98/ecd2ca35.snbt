@@ -1,0 +1,43 @@
+{
+	x: -0.5d,
+	y: -5.5d,
+	text: [
+		"需要化工厂"
+	],
+	tasks: [{
+		uid: "a705661a",
+		type: "item",
+		items: [{
+			item: "hbm:security_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "11bdefc8",
+		type: "item",
+		items: [{
+			item: "hbm:security_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "211ef07c",
+		type: "item",
+		items: [{
+			item: "hbm:security_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b7cf60d0",
+		type: "item",
+		items: [{
+			item: "hbm:security_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

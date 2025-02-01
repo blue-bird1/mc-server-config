@@ -1,0 +1,50 @@
+{
+	title: "钴套装",
+	x: -0.5d,
+	y: -4.0d,
+	text: [
+		"钴需要来到地狱才能获得"
+	],
+	tasks: [{
+		uid: "2e581d91",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b6cedcbe",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c99cc27f",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "49692fd7",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a548544",
+		type: "item",
+		item: "hbm:ore_rare",
+		count: 16
+	}]
+}
