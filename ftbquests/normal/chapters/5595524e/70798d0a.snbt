@@ -1,13 +1,12 @@
 {
 	title: "无尽水源",
-	x: 0.0d,
-	y: 2.5d,
+	x: -2.0d,
+	y: 0.5d,
 	text: [
 		""
 	],
 	dependencies: [
-		"bfdde145",
-		"495b69c0"
+		"9e1211de"
 	],
 	tasks: [{
 		uid: "a2671e33",

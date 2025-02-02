@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"fb73b7bc"
+	],
+	tasks: [{
+		uid: "eda8c282",
+		type: "item",
+		items: [{
+			item: "twilightforest:charm_of_life_2"
+		}]
+	}]
+}

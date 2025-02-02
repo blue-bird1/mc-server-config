@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"2893a203"
+	],
+	tasks: [{
+		uid: "5c7cda2c",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_seared"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "76fef8a4",
+		type: "item",
+		item: "hbm:ingot_meteorite_forged"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	dependencies: [
+		"e73bd5ef"
+	],
+	tasks: [{
+		uid: "efe53c01",
+		type: "item",
+		items: [{
+			item: "hbm:meteorite_sword_alloyed"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cadfba5e",
+		type: "item",
+		item: "hbm:ingot_cobalt"
+	}]
+}

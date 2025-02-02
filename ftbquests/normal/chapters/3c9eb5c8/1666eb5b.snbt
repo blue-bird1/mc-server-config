@@ -1,0 +1,31 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	dependencies: [
+		"bca177cc"
+	],
+	tasks: [{
+		uid: "36d2a792",
+		type: "item",
+		items: [{
+			item: "hbm:barrel_iron"
+		}]
+	},
+	{
+		uid: "8eb24118",
+		type: "item",
+		items: [{
+			item: "hbm:fluid_duct_mk2"
+		}]
+	}],
+	rewards: [{
+		uid: "05d30315",
+		type: "item",
+		item: "hbm:barrel_iron"
+	},
+	{
+		uid: "376b121a",
+		type: "item",
+		item: "hbm:screwdriver"
+	}]
+}

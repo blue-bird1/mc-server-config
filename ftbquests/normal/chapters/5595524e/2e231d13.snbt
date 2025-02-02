@@ -5,8 +5,16 @@
 		"176cc0aa"
 	],
 	tasks: [{
-		uid: "29b7975e",
-		type: "fluid",
-		fluid: "uf6"
+		uid: "d8aae7af",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "uf6",
+					Amount: 1000
+				}
+			}
+		}]
 	}]
 }

@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	dependencies: [
+		"a27f181a"
+	],
+	tasks: [{
+		uid: "73e9e7e3",
+		type: "item",
+		items: [{
+			item: "minecraft:totem_of_undying"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

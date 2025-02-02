@@ -66,5 +66,19 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "df518a60",
+		type: "item",
+		item: {
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "hotoil",
+					Amount: 1000
+				}
+			}
+		},
+		count: 16
 	}]
 }

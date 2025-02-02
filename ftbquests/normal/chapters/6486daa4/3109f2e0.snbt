@@ -1,0 +1,25 @@
+{
+	title: "附魔书",
+	x: -4.0d,
+	y: -2.0d,
+	text: [
+		"自己附魔，或者向外界购买"
+	],
+	dependencies: [
+		"a12d782e"
+	],
+	tasks: [{
+		uid: "12b3b801",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 4s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

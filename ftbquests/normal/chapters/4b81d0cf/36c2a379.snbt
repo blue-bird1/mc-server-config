@@ -1,0 +1,36 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"f8618d21",
+		"ba11e04a"
+	],
+	tasks: [{
+		uid: "969497cc",
+		type: "item",
+		items: [{
+			item: "hbm:reactor_computer"
+		}]
+	},
+	{
+		uid: "c0ff4a32",
+		type: "item",
+		items: [{
+			item: "hbm:reactor_conductor"
+		}]
+	},
+	{
+		uid: "483caa4b",
+		type: "item",
+		items: [{
+			item: "hbm:reactor_element"
+		}]
+	},
+	{
+		uid: "f31eb1c1",
+		type: "item",
+		items: [{
+			item: "hbm:reactor_hatch"
+		}]
+	}]
+}
