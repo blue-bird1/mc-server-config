@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: 1.0d,
+	dependencies: [
+		"ae0a76e6"
+	],
+	tasks: [{
+		uid: "632098f8",
+		type: "checkmark",
+		title: "新的开始",
+		icon: {
+			id: "projecte:item.pe_philosophers_stone",
+			tag: {}
+		}
+	}]
+}

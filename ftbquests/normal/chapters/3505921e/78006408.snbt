@@ -1,0 +1,18 @@
+{
+	x: 5.5d,
+	y: -9.0d,
+	text: [
+		"对矿物的再次增产"
+	],
+	dependencies: [
+		"2b7bff21"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "9a0d39e0",
+		type: "item",
+		items: [{
+			item: "hbm:machine_centrifuge"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "projecte:transmutation_table",
+	x: 0.0d,
+	y: -3.0d,
+	text: [
+		"查看炼金术章节以获取更多信息"
+	],
+	dependencies: [
+		"bfdde145"
+	],
+	tasks: [{
+		uid: "56408be3",
+		type: "checkmark",
+		title: "炼金术专精"
+	}]
+}

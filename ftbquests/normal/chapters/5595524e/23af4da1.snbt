@@ -6,8 +6,10 @@
 		"由陨石制作的更高级外星合金材料"
 	],
 	dependencies: [
-		"495b69c0"
+		"495b69c0",
+		"a424f68f"
 	],
+	dependency_requirement: "all_started",
 	tasks: [{
 		uid: "d740a885",
 		type: "item",

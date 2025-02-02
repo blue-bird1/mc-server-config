@@ -235,6 +235,18 @@
     {
       "item": "hbm:biomass|0",
       "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|7",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|8",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|5",
+      "emc": 256
     }
   ]
 }
