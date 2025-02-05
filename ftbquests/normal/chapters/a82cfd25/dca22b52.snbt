@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "510290aa",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_nightmare"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "12327bb5",
+		type: "item",
+		item: "hbm:gun_revolver_nightmare_ammo",
+		count: 64
+	},
+	{
+		uid: "6bab2583",
+		type: "random",
+		table: 1
+	}]
+}

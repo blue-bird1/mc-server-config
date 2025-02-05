@@ -2,6 +2,7 @@
 	x: 0.0d,
 	y: -1.5d,
 	can_repeat: true,
+	optional: true,
 	tasks: [{
 		uid: "262159fe",
 		type: "item",

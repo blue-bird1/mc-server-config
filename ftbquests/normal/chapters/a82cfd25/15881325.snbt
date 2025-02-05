@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"537a84ac"
+	],
+	tasks: [{
+		uid: "a709e3f0",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

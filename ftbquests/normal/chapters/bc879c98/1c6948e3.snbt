@@ -1,0 +1,43 @@
+{
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"3c7ffe0f"
+	],
+	tasks: [{
+		uid: "ae74b607",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8fd4082f",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "08a69b8b",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "50144bde",
+		type: "item",
+		items: [{
+			item: "hbm:liquidator_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

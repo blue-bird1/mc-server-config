@@ -1,0 +1,48 @@
+{
+	x: -5.5d,
+	y: -4.0d,
+	text: [
+		"击杀了九头蛇和暮色恶魂获取材料，强于钻石套装"
+	],
+	tasks: [{
+		uid: "850fe66a",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9209d3ee",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1dbc8505",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "93b0e80d",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "571ef986",
+		type: "random",
+		table: 2
+	}]
+}

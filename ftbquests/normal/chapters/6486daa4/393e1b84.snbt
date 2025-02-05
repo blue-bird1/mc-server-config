@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 2.5d,
+	dependencies: [
+		"9e1211de",
+		"b190dddb"
+	],
+	tasks: [{
+		uid: "0c42b7e3",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}]
+	}]
+}

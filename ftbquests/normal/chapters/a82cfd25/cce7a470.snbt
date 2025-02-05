@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	text: [
+		"最简单的左轮手枪"
+	],
+	tasks: [{
+		uid: "6a2a0c1c",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2dd285f7",
+		type: "item",
+		item: "hbm:gun_revolver_iron_ammo",
+		count: 64
+	},
+	{
+		uid: "5fa420e6",
+		type: "random",
+		table: 1
+	}]
+}

@@ -8,6 +8,7 @@
 		"2b7bff21"
 	],
 	dependency_requirement: "one_started",
+	optional: true,
 	tasks: [{
 		uid: "9a0d39e0",
 		type: "item",

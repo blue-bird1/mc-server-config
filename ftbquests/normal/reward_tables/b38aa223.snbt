@@ -1,0 +1,28 @@
+{
+	title: "初级食物",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:cooked_chicken",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_rabbit",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_mutton",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_fish",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_porkchop",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_beef",
+		count: 8
+	}]
+}

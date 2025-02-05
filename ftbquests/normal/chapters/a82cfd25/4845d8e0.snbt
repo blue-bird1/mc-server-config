@@ -1,0 +1,30 @@
+{
+	x: 1.0d,
+	y: 4.5d,
+	text: [
+		"拥有辐射材料后制作的新左轮"
+	],
+	dependencies: [
+		"e8ecf744"
+	],
+	tasks: [{
+		uid: "c1cb040a",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_lead"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "28259fe4",
+		type: "item",
+		item: "hbm:gun_revolver_lead_ammo",
+		count: 64
+	},
+	{
+		uid: "786d4d2f",
+		type: "random",
+		table: 1
+	}]
+}

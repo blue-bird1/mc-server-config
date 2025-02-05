@@ -42,5 +42,10 @@
 		type: "item",
 		item: "hbm:ingot_advanced_alloy",
 		count: 6
+	},
+	{
+		uid: "c899f500",
+		type: "random",
+		table: 2
 	}]
 }

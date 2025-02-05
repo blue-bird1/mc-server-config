@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "eb13960f",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

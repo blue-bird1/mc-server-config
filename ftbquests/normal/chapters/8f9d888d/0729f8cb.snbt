@@ -22,5 +22,10 @@
 		uid: "f6e1208e",
 		type: "item",
 		item: "projecte:item.pe_transmutation_tablet"
+	},
+	{
+		uid: "690a8e74",
+		type: "random",
+		table: 0
 	}]
 }

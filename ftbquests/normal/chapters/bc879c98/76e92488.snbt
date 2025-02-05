@@ -1,0 +1,40 @@
+{
+	x: -0.5d,
+	y: -12.5d,
+	tasks: [{
+		uid: "8421f1cf",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "45ce54b0",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "441cb0aa",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62ecd67a",
+		type: "item",
+		items: [{
+			item: "hbm:euphemium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

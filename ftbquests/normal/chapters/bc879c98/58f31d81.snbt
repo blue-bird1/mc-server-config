@@ -1,0 +1,45 @@
+{
+	x: -0.5d,
+	y: -7.0d,
+	tasks: [{
+		uid: "8dcef8a2",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "683aeb0b",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "09c2ebf4",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1c7959dc",
+		type: "item",
+		items: [{
+			item: "hbm:starmetal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1f8bc5ed",
+		type: "random",
+		table: 2
+	}]
+}

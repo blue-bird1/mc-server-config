@@ -1,0 +1,30 @@
+{
+	x: 1.0d,
+	y: 9.0d,
+	text: [
+		"发射的黄色激光束可以破坏包括基岩在内的技术性方块在内的所有方块"
+	],
+	dependencies: [
+		"da52df7f"
+	],
+	tasks: [{
+		uid: "d5fe6569",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_nightmare2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a7558366",
+		type: "item",
+		item: "hbm:gun_revolver_nightmare2_ammo",
+		count: 64
+	},
+	{
+		uid: "d6dfbc7a",
+		type: "random",
+		table: 1
+	}]
+}

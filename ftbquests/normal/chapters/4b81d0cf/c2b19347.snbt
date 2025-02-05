@@ -9,28 +9,10 @@
 		"b190dddb"
 	],
 	tasks: [{
-		uid: "f1e57f2f",
+		uid: "5c55ab2e",
 		type: "item",
 		items: [{
-			item: "hbm:fragment_neodymium"
-		},
-		{
-			item: "hbm:fragment_niobium"
-		},
-		{
-			item: "hbm:fragment_cerium"
-		},
-		{
-			item: "hbm:fragment_actinium"
-		},
-		{
-			item: "hbm:fragment_cobalt"
-		},
-		{
-			item: "hbm:fragment_boron"
-		},
-		{
-			item: "hbm:fragment_lanthanium"
+			item: "hbm:ore_rare"
 		}]
 	}]
 }

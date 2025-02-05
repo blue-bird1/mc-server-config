@@ -1,0 +1,40 @@
+{
+	x: -0.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "fa16eb58",
+		type: "item",
+		items: [{
+			item: "hbm:cmb_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e1ce7e53",
+		type: "item",
+		items: [{
+			item: "hbm:cmb_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8bd1e83f",
+		type: "item",
+		items: [{
+			item: "hbm:cmb_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "878a5942",
+		type: "item",
+		items: [{
+			item: "hbm:cmb_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

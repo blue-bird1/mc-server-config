@@ -9,5 +9,10 @@
 		type: "checkmark",
 		title: "一切的开始",
 		icon: "minecraft:dirt"
+	}],
+	rewards: [{
+		uid: "8e4277fc",
+		type: "random",
+		table: 0
 	}]
 }

@@ -1,0 +1,40 @@
+{
+	x: -0.5d,
+	y: -9.5d,
+	tasks: [{
+		uid: "8e394e1a",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ae105af0",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7eed9173",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e4d3e787",
+		type: "item",
+		items: [{
+			item: "hbm:schrabidium_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

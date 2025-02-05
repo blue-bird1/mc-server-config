@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: -5.0d,
+	text: [
+		"自动化转换物品的炼金装置， 只能设置一个目标产物"
+	],
+	tasks: [{
+		uid: "bb162208",
+		type: "item",
+		items: [{
+			item: "projecte:condenser_mk1"
+		}]
+	}]
+}

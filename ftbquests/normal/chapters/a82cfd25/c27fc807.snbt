@@ -1,0 +1,30 @@
+{
+	x: 1.0d,
+	y: 3.0d,
+	text: [
+		"高速钢能制作的更强左轮"
+	],
+	dependencies: [
+		"e8ecf744"
+	],
+	tasks: [{
+		uid: "8ddd3390",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_cursed"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2929e41e",
+		type: "item",
+		item: "hbm:gun_revolver_cursed_ammo",
+		count: 64
+	},
+	{
+		uid: "74d1319b",
+		type: "random",
+		table: 1
+	}]
+}

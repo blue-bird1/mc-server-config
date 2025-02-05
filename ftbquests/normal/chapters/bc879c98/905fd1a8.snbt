@@ -1,0 +1,48 @@
+{
+	x: -5.5d,
+	y: -2.5d,
+	text: [
+		"从骑士要塞处获取，略弱于钻石套装"
+	],
+	tasks: [{
+		uid: "48466edf",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9700b37a",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "69715b7d",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f106e5a8",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2fa7d7f",
+		type: "random",
+		table: 2
+	}]
+}

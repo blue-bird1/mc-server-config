@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	text: [
+		"强化后使用铅子弹的左轮手枪"
+	],
+	tasks: [{
+		uid: "bd26cf56",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cf5e2b3c",
+		type: "item",
+		item: "hbm:gun_revolver_ammo",
+		count: 64
+	},
+	{
+		uid: "76f6c0e5",
+		type: "random",
+		table: 1
+	}]
+}

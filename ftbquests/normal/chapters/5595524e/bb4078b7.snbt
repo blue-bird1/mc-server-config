@@ -1,0 +1,23 @@
+{
+	x: 12.5d,
+	y: -6.5d,
+	text: [
+		"通过冷却液能控制燃料棒温度"
+	],
+	dependencies: [
+		"ed767fac"
+	],
+	tasks: [{
+		uid: "8121d21f",
+		type: "item",
+		items: [{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "coolant",
+					Amount: 1000
+				}
+			}
+		}]
+	}]
+}

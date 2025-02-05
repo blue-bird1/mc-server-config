@@ -51,5 +51,10 @@
 		type: "item",
 		team_reward: true,
 		item: "minecraft:ender_chest"
+	},
+	{
+		uid: "bf1af38f",
+		type: "random",
+		table: 2
 	}]
 }

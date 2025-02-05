@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: 3.5d,
+	dependencies: [
+		"b1480cfe"
+	],
+	tasks: [{
+		uid: "d1accba8",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_klein_star 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e224bff2",
+		type: "item",
+		item: "projecte:item.pe_klein_star 1 1"
+	}]
+}

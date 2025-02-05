@@ -1,10 +1,14 @@
 {
 	x: 3.0d,
 	y: -4.0d,
+	text: [
+		"制作更好的燃料棒"
+	],
 	dependencies: [
 		"4dcd1e10",
 		"7d2b09d4"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "8a39127d",
 		type: "item",

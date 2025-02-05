@@ -1,0 +1,55 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	dependencies: [
+		"ba70a1f3"
+	],
+	tasks: [{
+		uid: "14854238",
+		type: "item",
+		items: [{
+			id: "hbm:ajr_helmet",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6c64f791",
+		type: "item",
+		items: [{
+			id: "hbm:ajr_plate",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "470f5612",
+		type: "item",
+		items: [{
+			id: "hbm:ajr_legs",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e5bcf116",
+		type: "item",
+		items: [{
+			id: "hbm:ajr_boots",
+			tag: {
+				charge: 2500000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

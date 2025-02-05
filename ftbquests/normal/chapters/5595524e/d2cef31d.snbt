@@ -1,0 +1,21 @@
+{
+	title: "自动化工厂",
+	x: 18.0d,
+	y: -3.0d,
+	text: [
+		"有一位破产的工厂主愿意提供自动化技术，但是需要赞助他重建自己的工厂"
+	],
+	dependencies: [
+		"8f75447e"
+	],
+	tasks: [{
+		uid: "ee2ec9d2",
+		type: "item",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:factory"
+			}
+		}]
+	}]
+}

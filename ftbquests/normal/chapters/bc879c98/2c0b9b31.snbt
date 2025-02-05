@@ -1,0 +1,55 @@
+{
+	x: 1.0d,
+	y: -4.0d,
+	dependencies: [
+		"86d3df18"
+	],
+	tasks: [{
+		uid: "7ed817fb",
+		type: "item",
+		items: [{
+			id: "hbm:hev_helmet",
+			tag: {
+				charge: 5000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7f46237d",
+		type: "item",
+		items: [{
+			id: "hbm:hev_plate",
+			tag: {
+				charge: 5000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "37a0ed82",
+		type: "item",
+		items: [{
+			id: "hbm:hev_legs",
+			tag: {
+				charge: 5000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6ee3d0fb",
+		type: "item",
+		items: [{
+			id: "hbm:hev_boots",
+			tag: {
+				charge: 5000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

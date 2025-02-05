@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	text: [
+		"现在能够制造自动从太阳中吸收能量并转换为emc的装置"
+	],
+	tasks: [{
+		uid: "85508386",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk1"
+		}]
+	}]
+}

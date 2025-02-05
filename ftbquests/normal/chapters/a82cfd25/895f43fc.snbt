@@ -1,0 +1,31 @@
+{
+	x: 1.0d,
+	y: 6.0d,
+	text: [
+		"因为使用了土星合金这种特殊的材料，所以射出的子弹可能会让子弹的落点或使用者脚下起火"
+	],
+	dependencies: [
+		"e8ecf744",
+		"9fad96cf"
+	],
+	tasks: [{
+		uid: "7d66e0aa",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_saturnite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4775b7b5",
+		type: "item",
+		item: "hbm:gun_revolver_ammo",
+		count: 64
+	},
+	{
+		uid: "90708c35",
+		type: "random",
+		table: 1
+	}]
+}

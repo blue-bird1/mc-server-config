@@ -42,5 +42,10 @@
 		type: "item",
 		item: "hbm:stamp_steel_flat",
 		count: 4
+	},
+	{
+		uid: "7e8c5a94",
+		type: "random",
+		table: 2
 	}]
 }

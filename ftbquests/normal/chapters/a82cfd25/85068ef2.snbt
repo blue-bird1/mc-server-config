@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 12.0d,
+	text: [
+		"如jei所见，昂贵的是奇迹般的子弹"
+	],
+	tasks: [{
+		uid: "9c9a0c78",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_blackjack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

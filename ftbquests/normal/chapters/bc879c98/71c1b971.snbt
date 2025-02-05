@@ -1,0 +1,55 @@
+{
+	x: 1.0d,
+	y: -11.0d,
+	dependencies: [
+		"9deebcd4"
+	],
+	tasks: [{
+		uid: "bca4f2a8",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_helmet",
+			tag: {
+				charge: 50000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d761b769",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_plate",
+			tag: {
+				charge: 50000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "763e0937",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_legs",
+			tag: {
+				charge: 50000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "677e4908",
+		type: "item",
+		items: [{
+			id: "hbm:rpa_boots",
+			tag: {
+				charge: 50000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

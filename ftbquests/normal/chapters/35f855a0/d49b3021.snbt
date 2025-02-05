@@ -2,7 +2,7 @@
 	x: -4.5d,
 	y: 1.5d,
 	text: [
-		"早期便宜的治疗物"
+		"早期便宜的治疗物,输液袋右键填充获取血袋"
 	],
 	dependencies: [
 		"3893f410"
@@ -14,5 +14,18 @@
 		items: [{
 			item: "hbm:iv_empty"
 		}]
+	},
+	{
+		uid: "545dac5c",
+		type: "item",
+		items: [{
+			item: "hbm:iv_blood"
+		}]
+	}],
+	rewards: [{
+		uid: "9fa71000",
+		type: "item",
+		item: "hbm:iv_empty",
+		count: 16
 	}]
 }

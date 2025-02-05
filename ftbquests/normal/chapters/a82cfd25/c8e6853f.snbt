@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	dependencies: [
+		"e67c4acd"
+	],
+	tasks: [{
+		uid: "9a4240c9",
+		type: "item",
+		items: [{
+			item: "hbm:volcanic_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

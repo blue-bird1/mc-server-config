@@ -1,0 +1,45 @@
+{
+	x: 2.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "e82a4b50",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_helmet_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "042320b2",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_plate_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "423df08e",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_legs_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dc00e60d",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_boots_red"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5b987581",
+		type: "random",
+		table: 2
+	}]
+}

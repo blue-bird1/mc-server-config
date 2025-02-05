@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "faeb65d7",
+		type: "item",
+		items: [{
+			item: "hbm:cmb_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

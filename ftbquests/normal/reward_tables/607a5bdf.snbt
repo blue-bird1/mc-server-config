@@ -1,0 +1,62 @@
+{
+	title: "初级组件",
+	icon: "hbm:machine_armor_table",
+	loot_size: 1,
+	rewards: [{
+		item: "hbm:cladding_rubber"
+	},
+	{
+		item: "hbm:cladding_lead"
+	},
+	{
+		item: "hbm:cladding_desh"
+	},
+	{
+		item: "hbm:cladding_iron"
+	},
+	{
+		item: "hbm:cladding_obsidian"
+	},
+	{
+		item: "hbm:pads_slime"
+	},
+	{
+		item: "hbm:armor_polish"
+	},
+	{
+		item: "hbm:serum"
+	},
+	{
+		item: "hbm:cladding_paint"
+	},
+	{
+		item: "hbm:pads_rubber"
+	},
+	{
+		item: "hbm:pads_static"
+	},
+	{
+		item: "hbm:morning_glory"
+	},
+	{
+		item: "hbm:quartz_plutonium"
+	},
+	{
+		item: "hbm:heart_piece"
+	},
+	{
+		item: "hbm:lodestone"
+	},
+	{
+		item: "hbm:horseshoe_magnet"
+	},
+	{
+		item: "hbm:wd40"
+	},
+	{
+		item: "hbm:scrumpy"
+	},
+	{
+		item: "hbm:servo_set"
+	}]
+}

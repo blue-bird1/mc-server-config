@@ -1,0 +1,14 @@
+{
+	x: 22.5d,
+	y: 1.0d,
+	dependencies: [
+		"98d0c8ca"
+	],
+	tasks: [{
+		uid: "66c8acfb",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_bakelite"
+		}]
+	}]
+}

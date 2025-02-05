@@ -1,0 +1,30 @@
+{
+	x: 1.0d,
+	y: 10.5d,
+	text: [
+		",高昂造价的同时,此武器可以直接致死绝大多数状态下的玩家和生物"
+	],
+	dependencies: [
+		"da52df7f"
+	],
+	tasks: [{
+		uid: "8667395d",
+		type: "item",
+		items: [{
+			item: "hbm:gun_revolver_schrabidium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "247c52c4",
+		type: "item",
+		item: "hbm:gun_revolver_schrabidium_ammo",
+		count: 64
+	},
+	{
+		uid: "0b6e8374",
+		type: "random",
+		table: 1
+	}]
+}

@@ -15,8 +15,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "01ebecaa",
-		type: "item",
-		item: "minecraft:bread"
+		uid: "0c4d7a3e",
+		type: "random",
+		table: 0
 	}]
 }

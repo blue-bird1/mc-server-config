@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"c8e6853f",
+		"3f255cb6"
+	],
+	tasks: [{
+		uid: "522bb08f",
+		type: "item",
+		items: [{
+			item: "hbm:chlorophyte_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

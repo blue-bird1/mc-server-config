@@ -1,0 +1,30 @@
+{
+	x: 20.0d,
+	y: -4.0d,
+	dependencies: [
+		"d2cef31d"
+	],
+	tasks: [{
+		uid: "f5940b7e",
+		type: "item",
+		items: [{
+			item: "modularmachinery:factory_controller"
+		}]
+	},
+	{
+		uid: "ebb456a3",
+		type: "item",
+		items: [{
+			item: "hbm:factory_titanium_hull"
+		}],
+		count: 89L
+	},
+	{
+		uid: "5a4542a5",
+		type: "item",
+		items: [{
+			item: "hbm:factory_titanium_core"
+		}],
+		count: 27L
+	}]
+}

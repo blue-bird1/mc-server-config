@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	dependencies: [
+		"a0794e73"
+	],
+	tasks: [{
+		uid: "78ace2e0",
+		type: "item",
+		items: [{
+			item: "hbm:mese_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

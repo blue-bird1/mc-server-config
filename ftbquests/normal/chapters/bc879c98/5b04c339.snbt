@@ -43,5 +43,10 @@
 		team_reward: true,
 		item: "minecraft:gold_ingot",
 		count: 6
+	},
+	{
+		uid: "899b60db",
+		type: "random",
+		table: 2
 	}]
 }

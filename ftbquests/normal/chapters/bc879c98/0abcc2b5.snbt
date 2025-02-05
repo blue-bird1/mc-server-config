@@ -43,5 +43,10 @@
 		team_reward: true,
 		item: "minecraft:diamond",
 		count: 10
+	},
+	{
+		uid: "d86d72ae",
+		type: "choice",
+		table: 2
 	}]
 }

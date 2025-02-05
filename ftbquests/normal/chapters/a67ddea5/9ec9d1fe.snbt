@@ -7,6 +7,7 @@
 		"emc代币"
 	],
 	can_repeat: true,
+	optional: true,
 	tasks: [{
 		uid: "041ef3af",
 		type: "emc",

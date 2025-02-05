@@ -1,6 +1,9 @@
 {
 	x: 1.5d,
 	y: -1.0d,
+	text: [
+		"进入地狱所需装备的合成材料"
+	],
 	dependencies: [
 		"bfdde145"
 	],

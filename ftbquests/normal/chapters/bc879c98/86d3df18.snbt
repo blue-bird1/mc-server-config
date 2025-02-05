@@ -46,5 +46,10 @@
 		type: "item",
 		item: "hbm:ore_rare",
 		count: 16
+	},
+	{
+		uid: "3aca554e",
+		type: "random",
+		table: 2
 	}]
 }

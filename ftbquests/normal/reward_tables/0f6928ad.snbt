@@ -1,0 +1,34 @@
+{
+	title: "左轮",
+	loot_size: 1,
+	rewards: [{
+		item: "hbm:ammo_357_desh",
+		count: 64,
+		weight: 10
+	},
+	{
+		item: "hbm:clip_revolver_pip"
+	},
+	{
+		item: "hbm:gun_revolver_inverted"
+	},
+	{
+		item: "hbm:gun_kit_1",
+		count: 2,
+		weight: 20
+	},
+	{
+		item: "hbm:gun_kit_2",
+		weight: 10
+	},
+	{
+		item: "hbm:stamp_357",
+		weight: 20
+	},
+	{
+		item: "hbm:stamp_desh_44"
+	},
+	{
+		item: "hbm:stamp_desh_357"
+	}]
+}

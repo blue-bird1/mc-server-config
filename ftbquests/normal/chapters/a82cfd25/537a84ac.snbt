@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "b0ba50e6",
+		type: "item",
+		items: [{
+			item: "hbm:desh_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

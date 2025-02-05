@@ -12,6 +12,7 @@
 	dependencies: [
 		"d6ba8e8d"
 	],
+	optional: true,
 	tasks: [{
 		uid: "6187f94f",
 		type: "kill",

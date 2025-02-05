@@ -1,0 +1,43 @@
+{
+	x: 5.5d,
+	y: -1.0d,
+	dependencies: [
+		"1c6948e3"
+	],
+	tasks: [{
+		uid: "17281ead",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_paa_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "eeacaf47",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_paa_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0e9f7257",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_paa_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0519c515",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_paa_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

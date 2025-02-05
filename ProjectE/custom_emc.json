@@ -222,7 +222,7 @@
     },
     {
       "item": "appliedenergistics2:material|2",
-      "emc": 1080
+      "emc": 0
     },
     {
       "item": "twilightforest:trophy|8",
@@ -246,7 +246,35 @@
     },
     {
       "item": "appliedenergistics2:material|5",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:lamp_of_cinders|0",
+      "emc": 2048000
+    },
+    {
+      "item": "hbm:sulfur|0",
       "emc": 256
+    },
+    {
+      "item": "minecraft:nether_star|0",
+      "emc": 2048000
+    },
+    {
+      "item": "minecraft:melon|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:apple|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:poisonous_potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot|0",
+      "emc": 0
     }
   ]
 }

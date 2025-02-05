@@ -1,0 +1,55 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"3fdd5c28"
+	],
+	tasks: [{
+		uid: "d61ddd25",
+		type: "item",
+		items: [{
+			id: "hbm:t45_legs",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "abe90e1a",
+		type: "item",
+		items: [{
+			id: "hbm:t45_boots",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3b7806cd",
+		type: "item",
+		items: [{
+			id: "hbm:t45_helmet",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b18863d2",
+		type: "item",
+		items: [{
+			id: "hbm:t45_plate",
+			tag: {
+				charge: 1000000L
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

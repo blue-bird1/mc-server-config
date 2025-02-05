@@ -1,0 +1,40 @@
+{
+	x: -2.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "baa5a111",
+		type: "item",
+		items: [{
+			item: "hbm:asbestos_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "987f34e2",
+		type: "item",
+		items: [{
+			item: "hbm:asbestos_plate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ec9b5be2",
+		type: "item",
+		items: [{
+			item: "hbm:asbestos_legs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "535fe34a",
+		type: "item",
+		items: [{
+			item: "hbm:asbestos_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

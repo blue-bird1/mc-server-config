@@ -1,6 +1,9 @@
 {
 	x: 1.5d,
 	y: 1.0d,
+	text: [
+		"进入地狱所需装备的合成材料 (炽血精华可以通过工业搅拌机获得)"
+	],
 	dependencies: [
 		"d6ba8e8d"
 	],
@@ -10,5 +13,27 @@
 		items: [{
 			item: "projecte:item.pe_lava_orb"
 		}]
+	},
+	{
+		uid: "78a6b486",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "fiery_essence",
+				Amount: 1000
+			}
+		},
+		{
+			id: "hbm:fluid_tank_full",
+			tag: {
+				HbmFluidKey: {
+					FluidName: "fiery_essence",
+					Amount: 1000
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}]
 }

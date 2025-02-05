@@ -1,0 +1,72 @@
+{
+	x: -5.5d,
+	y: 0.5d,
+	text: [
+		"暮色能获取到的第一套盔甲，防御力等于铁套"
+	],
+	tasks: [{
+		uid: "ee61e720",
+		type: "item",
+		items: [{
+			id: "twilightforest:ironwood_helmet",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 6s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4c3ef76f",
+		type: "item",
+		items: [{
+			id: "twilightforest:ironwood_chestplate",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a8e1f089",
+		type: "item",
+		items: [{
+			id: "twilightforest:ironwood_leggings",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4f95518a",
+		type: "item",
+		items: [{
+			id: "twilightforest:ironwood_boots",
+			tag: {
+				ench: [{
+					lvl: 1s,
+					id: 2s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "821df313",
+		type: "random",
+		table: 2
+	}]
+}

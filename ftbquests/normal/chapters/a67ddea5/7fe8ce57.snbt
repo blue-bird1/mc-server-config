@@ -9,6 +9,7 @@
 	text: [
 		"千万emc凝聚于一心 创造的奇迹"
 	],
+	can_repeat: true,
 	dependencies: [
 		"d6ba8e8d"
 	],

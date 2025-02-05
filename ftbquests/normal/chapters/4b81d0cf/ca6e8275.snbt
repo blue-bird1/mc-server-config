@@ -13,6 +13,14 @@
 		items: [{
 			id: "hbm:rod_mox_fuel",
 			tag: {}
+		},
+		{
+			id: "hbm:rod_dual_mox_fuel",
+			tag: {}
+		},
+		{
+			id: "hbm:rod_quad_mox_fuel",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
